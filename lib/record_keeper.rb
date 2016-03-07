@@ -1,7 +1,6 @@
 require 'csv'
 require 'date'
 require 'person'
-require 'byebug'
 
 include Person
 
